@@ -28,5 +28,13 @@
       "answerText": "I recommend using a popular JavaScript library such as 'Lodash' for sorting arrays...",
       "postedDate": "2023-06-01"
     }
+  ],
+  "users": [
+    {
+      "username": "Sam",
+      "avatar": "JaneSmith456.jpg",
+      "email": "sam@gmail.com",
+      "password": "sam@123"
+    }
   ]
 }
